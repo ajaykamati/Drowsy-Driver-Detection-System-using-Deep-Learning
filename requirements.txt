@@ -1,0 +1,3 @@
+pip install pyserial
+
+# might need to adjust the value of "Close_frames" variable on client computers.
